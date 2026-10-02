@@ -1,8 +1,5 @@
 # zey9310-math
 math for the people to check
-# zey9310-math
-Math for the people to check.
-
 ## Erdős Problem #64 (Erdős–Gyárfás): partial result
 **Theorem.** Every graph with minimum degree ≥ 4 and diameter ≤ 3 contains a cycle of length 4 or 8.
 
